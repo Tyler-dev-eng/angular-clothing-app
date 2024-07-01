@@ -1,1 +1,116 @@
-{"items":[{"id":1,"image":"assets/images/products/image1.jpg","name":"Black Hoodie","price":"24","rating":5},{"id":2,"name":"Branded Shoes","image":"assets/images/products/image2.jpg","price":"13.5","rating":4},{"id":3,"image":"assets/images/products/image3.jpg","name":"White","price":"85.0","rating":3},{"id":4,"image":"assets/images/products/image4.jpg","name":"Gray Dress 1","price":"625","rating":3},{"id":5,"name":"Black T-Shirt (Mens)","image":"assets/images/products/image5.jpg","price":"55.0","rating":5},{"id":6,"name":"Jeans Jacket","image":"assets/images/products/image6.jpg","price":"115.0","rating":4},{"id":7,"name":"Black T-Shirt (Womens)","image":"assets/images/products/image7.jpg","price":"25.0","rating":3},{"id":8,"name":"Beige Trench Coat","image":"assets/images/products/image8.jpg","price":"52.0","rating":1},{"id":9,"name":"Stylish Shoes","image":"assets/images/products/image9.jpg","price":"32.0","rating":2},{"id":10,"name":"Stylish Shoes - B","image":"assets/images/products/image10.jpg","price":"55.0","rating":5},{"id":11,"name":"Beanie Black","image":"assets/images/products/image11.jpg","price":"15.0","rating":1},{"id":12,"name":"Beanie Orange","image":"assets/images/products/image12.jpg","price":"12.5","rating":2},{"id":13,"name":"Beanie Red","image":"assets/images/products/image13.jpg","price":"14.5","rating":4},{"id":15,"name":"Cyan Long Sleeve Shirt","image":"assets/images/products/image15.jpg","price":"15.5","rating":5},{"id":16,"name":"Yellow Raincoat","image":"assets/images/products/image16.jpg","price":"12.5","rating":3}]}
+{
+  "items": [
+    {
+      "id": 1,
+      "image": "assets/images/products/image1.jpg",
+      "name": "Black Hoodie",
+      "price": "24",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Air Jordan 1 Mid",
+      "image": "assets/images/products/image2.jpg",
+      "price": "13.5",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "image": "assets/images/products/image3.jpg",
+      "name": "Cropped Boxy Tee",
+      "price": "85.0",
+      "rating": 3
+    },
+    {
+      "id": 4,
+      "image": "assets/images/products/image4.jpg",
+      "name": "Bella Boat Neck Mini Dress",
+      "price": "625",
+      "rating": 3
+    },
+    {
+      "id": 5,
+      "name": "Easy T-Shirt (Mens)",
+      "image": "assets/images/products/image5.jpg",
+      "price": "55.0",
+      "rating": 5
+    },
+    {
+      "id": 6,
+      "name": "Girlfriend Denim Jacket",
+      "image": "assets/images/products/image6.jpg",
+      "price": "115.0",
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "name": "Black T-Shirt (Womens)",
+      "image": "assets/images/products/image7.jpg",
+      "price": "25.0",
+      "rating": 3
+    },
+    {
+      "id": 8,
+      "name": "Brooklyn Faux Leather Trench Coat",
+      "image": "assets/images/products/image8.jpg",
+      "price": "52.0",
+      "rating": 1
+    },
+    {
+      "id": 9,
+      "name": "Nike Invincible 3",
+      "image": "assets/images/products/image9.jpg",
+      "price": "32.0",
+      "rating": 2
+    },
+    {
+      "id": 10,
+      "name": "Nike Dunk Low Retro",
+      "image": "assets/images/products/image10.png",
+      "price": "55.0",
+      "rating": 5
+    },
+    {
+      "id": 11,
+      "name": "Beanie Black",
+      "image": "assets/images/products/image11.png",
+      "price": "15.0",
+      "rating": 1
+    },
+    {
+      "id": 12,
+      "name": "Beanie Orange",
+      "image": "assets/images/products/image12.jpg",
+      "price": "12.5",
+      "rating": 2
+    },
+    {
+      "id": 13,
+      "name": "Nike Windrunner",
+      "image": "assets/images/products/image13.png",
+      "price": "14.5",
+      "rating": 4
+    },
+    {
+      "id": 14,
+      "name": "NikeCourt Dri-FIT Victoryr",
+      "image": "assets/images/products/image14.png",
+      "price": "15.5",
+      "rating": 5
+    },
+    {
+      "id": 15,
+      "name": "Nike Sportswear",
+      "image": "assets/images/products/image15.png",
+      "price": "15.5",
+      "rating": 5
+    },
+    {
+      "id": 16,
+      "name": "Jordan Air",
+      "image": "assets/images/products/image16.png",
+      "price": "12.5",
+      "rating": 3
+    }
+  ]
+}
